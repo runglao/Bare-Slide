@@ -39,12 +39,14 @@ body, html {
 
 .baner{
     
+     display: inline-block;
     width: 310px;
 	height: 620px;
 	margin: 20px;
 	margin-top: 90px;
 	margin-bottom: 30px;
-	padding-bottom: 20px
+	margin-left: 90px;
+	padding-bottom: 120px
 	color #11a01873;
 	background-color: #595e5d00;
 	/* font-family: 'Climate Crisis', sans-serif;
