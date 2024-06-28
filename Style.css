@@ -366,7 +366,17 @@ body, html {
 
 
 
-@media (max-width: 600px) {
+@media (max-width: 750px) {
+	.heder{
+		font-size: 35px;
+	}
+    
+}
+
+@media (max-width: 507px) {
+	.heder{
+		font-size: 25px;
+	}
     
 }
 
