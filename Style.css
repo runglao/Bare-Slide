@@ -15,21 +15,35 @@ body, html {
 }
 
 .container {
-    display: flex;
+    display: block;
     justify-content: center;
     align-items: center;
     width: 100%;
     height: 100%;
-	margin-top: 70px;
+	
 }
+
+.heder{
+	display: flex; 
+	justify-content: center;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    height: 10%;
+	background-color: aqua;
+	font-size: 50px;
+	align-content: center;
+	
+}
+
 
 .baner{
     
     width: 310px;
 	height: 620px;
 	margin: 20px;
-	margin-top: 17px;
-	margin-bottom: 21px;
+	margin-top: 90px;
+	margin-bottom: 30px;
 	padding-bottom: 20px
 	color #11a01873;
 	background-color: #595e5d00;
@@ -46,12 +60,9 @@ body, html {
     
 }
 
-
-
 .baner:hover{
     background-image: url(https://images.wallpaperscraft.ru/image/single/figury_oskolki_grani_1191161_960x544.jpg);
-    transform: scale(1.04);
-    
+    transform: scale(1.04);  
 }
 
 
