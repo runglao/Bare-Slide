@@ -26,21 +26,21 @@ body, html {
 .heder{
 	display: flex; 
 	justify-content: center;
-    align-items: center;
     position: fixed;
+	font-size: 50px;
+	font-family: cursive;
     width: 100%;
     height: 10%;
-	background-color: aqua;
-	font-size: 50px;
-	align-content: center;
-	
+	background-color: rgb(147, 216, 216);
 }
 
 
-.baner{
-    
-     display: inline-block;
-    width: 310px;
+
+
+
+.baner1{
+    display: inline-block;
+    width: 330px;
 	height: 620px;
 	margin: 20px;
 	margin-top: 90px;
@@ -51,7 +51,6 @@ body, html {
 	background-color: #595e5d00;
 	/* font-family: 'Climate Crisis', sans-serif;
     font-family: 'Noto Serif', serif; */
-
     font-family: cursive;
 	border: 2px solid rgba(16, 248, 237, 0.986);
 	border-radius: 20px;
@@ -59,20 +58,253 @@ body, html {
 	font-size: 16px;
 	transition: transform 0.5s ease-in-out;
 	box-shadow: 1px 3px  5px;
-    
 }
 
-.baner:hover{
-    background-image: url(https://images.wallpaperscraft.ru/image/single/figury_oskolki_grani_1191161_960x544.jpg);
-    transform: scale(1.04);  
+.baner1:hover{
+    background-image: url(https://images.wallpaperscraft.ru/image/single/linii_polosy_vertikalnyj_129730_1024x600.jpg);
+    /* transform: scale(1.04);   */
+	
+	
 }
+
+
+.baner2{
+    display: inline-block;
+    width: 330px;
+	height: 620px;
+	margin: 20px;
+	margin-top: 90px;
+	margin-bottom: 30px;
+	margin-left: 90px;
+	padding-bottom: 120px
+	color #11a01873;
+	background-color: #595e5d00;
+	/* font-family: 'Climate Crisis', sans-serif;
+    font-family: 'Noto Serif', serif; */
+    font-family: cursive;
+	border: 2px solid rgba(16, 248, 237, 0.986);
+	border-radius: 20px;
+	cursor: pointer;
+	font-size: 16px;
+	transition: transform 0.5s ease-in-out;
+	box-shadow: 1px 3px  5px;
+}
+
+.baner2:hover{
+    background-image: url(https://images.wallpaperscraft.ru/image/single/steklo_tekstura_formy_116816_1024x600.jpg);
+    /* transform: scale(1.04);   */
+}
+
+
+
+.baner3{
+    display: inline-block;
+    width: 330px;
+	height: 620px;
+	margin: 20px;
+	margin-top: 90px;
+	margin-bottom: 30px;
+	margin-left: 90px;
+	padding-bottom: 120px
+	color #11a01873;
+	background-color: #595e5d00;
+	/* font-family: 'Climate Crisis', sans-serif;
+    font-family: 'Noto Serif', serif; */
+    font-family: cursive;
+	border: 2px solid rgba(16, 248, 237, 0.986);
+	border-radius: 20px;
+	cursor: pointer;
+	font-size: 16px;
+	transition: transform 0.5s ease-in-out;
+	box-shadow: 1px 3px  5px;
+}
+
+.baner3:hover{
+    background-image: url(https://images.wallpaperscraft.ru/image/single/fon_tekstura_poverhnost_50343_1024x600.jpg);
+    /* transform: scale(1.04);   */
+}
+
+
+.baner4{
+    display: inline-block;
+    width: 330px;
+	height: 620px;
+	margin: 20px;
+	margin-top: 90px;
+	margin-bottom: 30px;
+	margin-left: 90px;
+	padding-bottom: 120px
+	color #11a01873;
+	background-color: #595e5d00;
+	/* font-family: 'Climate Crisis', sans-serif;
+    font-family: 'Noto Serif', serif; */
+    font-family: cursive;
+	border: 2px solid rgba(16, 248, 237, 0.986);
+	border-radius: 20px;
+	cursor: pointer;
+	font-size: 16px;
+	transition: transform 0.5s ease-in-out;
+	box-shadow: 1px 3px  5px;
+}
+
+.baner4:hover{
+    background-image: url(https://images.wallpaperscraft.ru/image/single/tekstura_perepletenie_struktura_409242_1024x600.jpg);
+    /* transform: scale(1.04);   */
+}
+
+
+.baner5{
+    display: inline-block;
+    width: 330px;
+	height: 620px;
+	margin: 20px;
+	margin-top: 90px;
+	margin-bottom: 30px;
+	margin-left: 90px;
+	padding-bottom: 120px
+	color #11a01873;
+	background-color: #595e5d00;
+	/* font-family: 'Climate Crisis', sans-serif;
+    font-family: 'Noto Serif', serif; */
+    font-family: cursive;
+	border: 2px solid rgba(16, 248, 237, 0.986);
+	border-radius: 20px;
+	cursor: pointer;
+	font-size: 16px;
+	transition: transform 0.5s ease-in-out;
+	box-shadow: 1px 3px  5px;
+}
+
+.baner5:hover{
+    background-image: url(https://images.wallpaperscraft.ru/image/single/setka_sinij_fon_1190441_1024x600.jpg);
+    /* transform: scale(1.04);   */
+}
+
+
+
+.baner6{
+    display: inline-block;
+    width: 330px;
+	height: 620px;
+	margin: 20px;
+	margin-top: 90px;
+	margin-bottom: 30px;
+	margin-left: 90px;
+	padding-bottom: 120px
+	color #11a01873;
+	background-color: #595e5d00;
+	/* font-family: 'Climate Crisis', sans-serif;
+    font-family: 'Noto Serif', serif; */
+    font-family: cursive;
+	border: 2px solid rgba(16, 248, 237, 0.986);
+	border-radius: 20px;
+	cursor: pointer;
+	font-size: 16px;
+	transition: transform 0.5s ease-in-out;
+	box-shadow: 1px 3px  5px;
+}
+
+.baner6:hover{
+    background-image: url(https://images.wallpaperscraft.ru/image/single/stil_kreativ_fon_50387_1024x600.jpg);
+    /* transform: scale(1.04);   */
+}
+
+
+
+.baner7{
+    display: inline-block;
+    width: 330px;
+	height: 620px;
+	margin: 20px;
+	margin-top: 90px;
+	margin-bottom: 30px;
+	margin-left: 90px;
+	padding-bottom: 120px
+	color #11a01873;
+	background-color: #595e5d00;
+	/* font-family: 'Climate Crisis', sans-serif;
+    font-family: 'Noto Serif', serif; */
+    font-family: cursive;
+	border: 2px solid rgba(16, 248, 237, 0.986);
+	border-radius: 20px;
+	cursor: pointer;
+	font-size: 16px;
+	transition: transform 0.5s ease-in-out;
+	box-shadow: 1px 3px  5px;
+}
+
+.baner7:hover{
+    background-image: url(https://images.wallpaperscraft.ru/image/single/shestiugolniki_setka_metall_206273_1024x600.jpg);
+    /* transform: scale(1.04);   */
+}
+
+
+
+
+.baner8{
+    display: inline-block;
+    width: 330px;
+	height: 620px;
+	margin: 20px;
+	margin-top: 90px;
+	margin-bottom: 30px;
+	margin-left: 90px;
+	padding-bottom: 120px
+	color #11a01873;
+	background-color: #595e5d00;
+	/* font-family: 'Climate Crisis', sans-serif;
+    font-family: 'Noto Serif', serif; */
+    font-family: cursive;
+	border: 2px solid rgba(16, 248, 237, 0.986);
+	border-radius: 20px;
+	cursor: pointer;
+	font-size: 16px;
+	transition: transform 0.5s ease-in-out;
+	box-shadow: 1px 3px  5px;
+}
+
+.baner8:hover{
+    background-image: url(https://images.wallpaperscraft.ru/image/single/stena_kraska_naiskos_134468_1024x600.jpg);
+    /* transform: scale(1.04);   */
+}
+
+
+.baner9{
+    display: inline-block;
+    width: 330px;
+	height: 620px;
+	margin: 20px;
+	margin-top: 90px;
+	margin-bottom: 30px;
+	margin-left: 90px;
+	padding-bottom: 120px
+	color #11a01873;
+	background-color: #595e5d00;
+	/* font-family: 'Climate Crisis', sans-serif;
+    font-family: 'Noto Serif', serif; */
+    font-family: cursive;
+	border: 2px solid rgba(16, 248, 237, 0.986);
+	border-radius: 20px;
+	cursor: pointer;
+	font-size: 16px;
+	transition: transform 0.5s ease-in-out;
+	box-shadow: 1px 3px  5px;
+}
+
+.baner9:hover{
+    background-image: url(https://images.wallpaperscraft.ru/image/single/shestiugolniki_soty_relef_880947_1024x600.jpg);
+    /* transform: scale(1.04);   */
+}
+
+
+
 
 
 .logo{
     width: 200px;
     height: 200px;
     display: inline-block;
-	margin-bottom: 90px;
+	margin-bottom: 40px;
 	align-items: center;
     border-radius: 200px;
     border: 9px solid rgba(18, 247, 247, 0.8);
@@ -85,42 +317,14 @@ body, html {
 }
 
 
+/* ------------------------------------------------------------------------------------------------------------------- */
 
 
-/* .center-button {
-    width: 350px;
-	height: 680px;
-	margin: 20px;
-	margin-top: 17px;
-	margin-bottom: 21px;
-	padding-bottom: 20px
-	color #11a01873;
-	background-color: #57e7dbda;
-	font-family: 'Climate Crisis', sans-serif;
-    font-family: 'Noto Serif', serif;
-	border: 2px solid rgba(77, 72, 72, 0.986);
-	border-radius: 20px;
-	cursor: pointer;
-	font-size: 16px;
-	transition: transform 0.3s ease;
-	box-shadow: 1px 3px  5px;
-
-}
-.center-button {
-	transform: scale(1.01);
-}
-.center-button:hover {
-    background-color: rgb(236, 141, 32);
-} */
-
-
-
-/* ----------------------------------------------------------------- */
 .Post{
     display: block;
 	margin: 5px;
 	padding: 10px;
-	margin-bottom: 60px;
+	margin-bottom: 70px;
 	border: 1px solid rgba(18, 233, 240, 0.493);
 	color:rgb(180, 221, 156);
     background-color: rgba(49, 53, 54, 0.466);
@@ -140,8 +344,9 @@ body, html {
 
 .Post2{
     display: block;
-	margin: 5px;
-    padding: 10px;
+	margin: 10px;
+    padding: 5px;
+	height: 160px;
 	border: 1px solid rgb(18, 233, 240);
 	color:rgb(253, 253, 253);
     background-color: rgba(49, 53, 54, 0.466);
@@ -163,10 +368,13 @@ body, html {
 
 @media (max-width: 600px) {
     
-        
-    
-
 }
+
+
+
+
+
+
 
 
 
