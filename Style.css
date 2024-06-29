@@ -366,32 +366,6 @@ body, html {
 
 
 
-@media (max-width: 750px) {
-	.heder{
-		font-size: 35px;
-	}
-    
-}
-
-
-
-@media (max-width: 750px) {
-
-	.baner1{
-		display: inline-block;
-		width: 370px;
-		height: 620px;
-		margin: 20px;
-		margin-top: 190px;
-		margin-bottom: 30px;
-		margin-left: 20px;
-		padding-bottom: 120px
-
-}
-
-}
-
-
 
 
 
